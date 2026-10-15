@@ -18,7 +18,7 @@
 
 FerAl Lab builds computational models that help decision makers choose better health policies. We work at the intersection of disease simulation, decision analysis, Bayesian statistics, and health economics, and we care as much about *how* a model is built (transparent, reproducible, open) as about the answer it gives.
 
-The lab is led by [Fernando Alarid-Escudero](STANFORD_PROFILE_URL) and brings together PhD students, postdoctoral fellows, research software developers and programmers, and visiting trainees. Our members and collaborators work across the United States, Mexico, Chile, Canada, and Europe, and we train the next generation of modelers through mentoring, courses, and open teaching materials.
+The lab is led by [Fernando Alarid-Escudero](https://profiles.stanford.edu/fernando-alarid-escudero) and brings together PhD students, postdoctoral fellows, research software developers and programmers, and visiting trainees. Our members and collaborators work across the United States, Mexico, Chile, Canada, and Europe, and we train the next generation of modelers through mentoring, courses, and open teaching materials.
 
 Our name joins **Fer**nando and **Al**arid, and our motto is *Stay feral*: curious, independent, and willing to explore beyond the usual trails.
 
