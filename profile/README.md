@@ -14,32 +14,42 @@
 
 ## Who we are
 
-FerAl Lab builds computational models that help decision makers choose better health policies. We work at the intersection of disease simulation, decision analysis, Bayesian statistics, and health economics, and we care as much about *how* a model is built (transparent, reproducible, open) as about the answer it gives.
+FerAl Lab builds computer simulations that follow large virtual populations through their lifetimes, so decision makers can see which screening tests, treatments, and prevention programs to offer, to whom, when, and at what cost, before those choices reach patients. We work at the intersection of disease simulation, decision analysis, Bayesian statistics, and health economics, and we care as much about *how* a model is built (transparent, reproducible, open) as about the answer it gives.
 
-The lab is led by [Fernando Alarid-Escudero](https://profiles.stanford.edu/fernando-alarid-escudero) and brings together PhD students, postdoctoral fellows, research software developers and programmers, and visiting trainees. Our members and collaborators work across the United States, Mexico, Chile, Canada, and Europe, and we train the next generation of modelers through mentoring, courses, and open teaching materials.
+The lab is led by [Fernando Alarid-Escudero](https://profiles.stanford.edu/fernando-alarid-escudero) and brings together PhD students, postdoctoral fellows, research software developers and programmers, and visiting trainees. Our members and collaborators work across the United States, Mexico, Chile, Canada, and Europe, and we mentor in both English and Spanish.
 
 Our name joins **Fer**nando and **Al**arid, and our motto is *Stay feral*: curious, independent, and willing to explore beyond the usual trails.
 
 ## What we work on
 
-- **Cancer natural history and screening models.** Microsimulation models of colorectal, gastric, and bladder cancer that evaluate screening, surveillance, and prevention strategies for national guidelines.
-- **Model calibration and uncertainty.** Bayesian and machine-learning approaches to calibrating complex models to epidemiological data, plus value-of-information analysis to decide what research is worth funding.
-- **Simulation methods.** Discrete-event simulation, state-transition (cohort, population, and microsimulation) models, and multistate survival models.
-- **Cost-effectiveness and policy analysis.** Economic evaluations that weigh efficiency against what health systems can actually deliver, with a strong focus on Latin America.
-- **Open and AI-assisted modeling.** Open-source R tools, tutorials, and new ways of using AI to build, check, and reproduce decision models.
+- **Cancer control policy.** Microsimulation models of colorectal, gastric, and bladder cancer within NCI's CISNET, including work that informs U.S. Preventive Services Task Force evidence reviews. Current questions include blood-based screening tests, FIT positivity thresholds, follow-up after a positive screening test, and *H. pylori* screen-and-treat strategies.
+- **Global health in Latin America.** How middle-income countries, especially Mexico and Chile, can build cancer screening programs that match what their health systems can deliver.
+- **Methods for trustworthy models.** Bayesian calibration with machine-learning emulators, pre-calibration diagnostics, fast event-time sampling, value-of-information analysis, and models that represent social processes and health inequities.
+- **Beyond cancer.** The same tools applied to COVID-19 (in Mexico and in U.S. prisons), dementia care, HIV prevention, and drug policy.
+- **Open and AI-assisted modeling.** Free R tools, tutorials, and new ways of using AI to build, check, and reproduce decision models.
+
+## Tools we build
+
+| Tool | What it does |
+|---|---|
+| [**DESCIPHR**](https://link.springer.com/article/10.1007/s40273-025-01571-3) | Open-source discrete-event simulation framework for cancer interventions and population health in R, led by [Selina Pi](https://github.com/sjpi22) |
+| [**BayCANN**](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.662314/full) | Bayesian calibration of simulation models using artificial neural network emulators. co-developed with [Hawre Jalal](https://github.com/hjalal) and [Tom Trikalinos](https://github.com/ttrikalin)|
+| [**PRE-CISE**](https://www.medrxiv.org/content/10.64898/2026.02.27.26346591v3) | Pre-calibration diagnostics for complex simulation models, led by [Valeria Gracia](https://github.com/vgraciaol) |
+| [**dampack**](https://github.com/DARTH-git/dampack), [**darthtools**](https://github.com/DARTH-git/darthtools), [**darthpack**](https://github.com/DARTH-git/darthpack) | R packages and templates for decision-analytic modeling, developed with [DARTH](https://github.com/DARTH-git) |
 
 ## Our groups and collaborations
 
-Much of our code lives in the GitHub organizations of the groups we lead, co-founded, or belong to:
+Much of our code lives in the GitHub organizations of the groups we lead, co-founded, or belong to.
 
 ### Groups we lead or co-founded
 
 | Organization | What it is |
 |---|---|
 | [**SimCRC**](https://github.com/SimCRC) | Simulation Model of Colorectal Cancer, one of the NCI CISNET colorectal cancer models |
+| **DESCIPHR-GC** *(coming soon)* | Gastric cancer microsimulation model for the NCI CISNET Gastric Cancer consortium |
 | [**DARTH-git**](https://github.com/DARTH-git) | Decision Analysis in R for Technologies in Health, a multi-institutional collaborative for open-source decision modeling in R (co-founded in 2015) |
 | [**IMPACCT-Stanford**](https://github.com/IMPACCT-Stanford) | International Modeling for Policy Analysis in Cancer Control and Translation |
-| **DESCIPHR-GC** *(coming soon)* | Gastric cancer microsimulation model for the NCI CISNET Gastric Cancer consortium |
+| [**ConVOI**](https://github.com/convoigroup) | Collaborative Network for Value of Information, producing open tools and guidance for value-of-information analysis |
 
 ### Consortia we are part of
 
@@ -48,6 +58,7 @@ Much of our code lives in the GitHub organizations of the groups we lead, co-fou
 | [**NCI-CISNET**](https://github.com/NCI-CISNET) | The Cancer Intervention and Surveillance Modeling Network, NCI's consortium of cancer simulation modelers |
 | [**NCI-CISNET-Colorectal**](https://github.com/NCI-CISNET-Colorectal) | CISNET Colorectal Cancer working group |
 | [**NCI-CISNET-Gastric**](https://github.com/NCI-CISNET-Gastric) | CISNET Gastric Cancer working group |
+| [**CISNET-Bladder-Cancer**](https://github.com/bladder-ca) | CISNET Bladder Cancer working group |
 | [**CISNET-COBRAS**](https://github.com/CISNET-COBRAS) | COBRAS bladder cancer model within CISNET Bladder |
 
 This organization, **FerAlLab-git**, is home to lab-wide work: methods, tutorials, trainee projects, and reproducible code for our papers.
@@ -63,8 +74,8 @@ This organization, **FerAlLab-git**, is home to lab-wide work: methods, tutorial
 
 Our work is supported by the National Cancer Institute through CISNET (U01CA319117, U01CA319219, U01CA319218), the National Institute on Drug Abuse (R37DA015612), and Stanford Impact Labs, among others.
 
-## Join us
+## Get in touch
 
-We welcome inquiries from prospective PhD students, postdoctoral fellows, research programmers, and visiting scholars interested in simulation modeling and health policy. Reach out at [falarid@stanford.edu](mailto:falarid@stanford.edu).
+Using one of our tools or found a bug? Please open an issue in that tool's repository so the answer helps everyone. For research collaborations, contact [falarid@stanford.edu](mailto:falarid@stanford.edu).
 
 <p align="center"><i>🦝 Stay feral.</i></p>
