@@ -1,7 +1,7 @@
 <!-- Save as profile/README.md in the FerAlLab-git/.github repository -->
 
 <p align="center">
-  <img src="logo.png" alt="FerAl Lab raccoon logo" width="180">
+  <img src="https://raw.githubusercontent.com/FerAlLab-git/.github/main/profile/logo1.jpg" alt="FerAl Lab raccoon logo" width="180">
 </p>
 
 <h1 align="center">FerAl Lab</h1>
