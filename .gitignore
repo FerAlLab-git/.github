@@ -48,3 +48,21 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+.DS_Store
+Thumbs.db
+
+# Secrets and local config
+.Renviron
+.Rprofile.local
+
+# Large or restricted data and model outputs
+data-raw/restricted/
+output/*.rds
+*.parquet
+*.feather
+
+# Caches
+.Rproj.user/
+*_cache/
+renv/library/
