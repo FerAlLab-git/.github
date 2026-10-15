@@ -33,9 +33,29 @@ Our name joins **Fer**nando and **Al**arid, and our motto is *Stay feral*: curio
 | Tool | What it does |
 |---|---|
 | [**DESCIPHR**](https://link.springer.com/article/10.1007/s40273-025-01571-3) | Open-source discrete-event simulation framework for cancer interventions and population health in R, led by [Selina Pi](https://github.com/sjpi22) |
-| [**BayCANN**](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.662314/full) | Bayesian calibration of simulation models using artificial neural network emulators. co-developed with [Hawre Jalal](https://github.com/hjalal) and [Tom Trikalinos](https://github.com/ttrikalin)|
+| [**BayCANN**](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.662314/full) | Bayesian calibration of simulation models using artificial neural network emulators. Co-developed with [Hawre Jalal](https://github.com/hjalal) and [Tom Trikalinos](https://github.com/ttrikalin)|
 | [**PRE-CISE**](https://www.medrxiv.org/content/10.64898/2026.02.27.26346591v3) | Pre-calibration diagnostics for complex simulation models, led by [Valeria Gracia](https://github.com/vgraciaol) |
 | [**dampack**](https://github.com/DARTH-git/dampack), [**darthtools**](https://github.com/DARTH-git/darthtools), [**darthpack**](https://github.com/DARTH-git/darthpack) | R packages and templates for decision-analytic modeling, developed with [DARTH](https://github.com/DARTH-git) |
+
+## Tutorials
+
+Peer-reviewed, step-by-step tutorials with open R code. A good place to start if you are new to decision modeling.
+
+| Tutorial | Published |
+|---|---|
+| [A Tutorial on Discrete Event Simulation Models Using a Cost-Effectiveness Analysis Example in R](https://doi.org/10.1177/0272989X261437826), led by [Mauricio López-Méndez](https://github.com/LopezM-Mauricio) | *Medical Decision Making*, 2026 |
+| [A Tutorial on Time-Dependent Cohort State-Transition Models in R using a Cost-Effectiveness Analysis Example](https://doi.org/10.1177/0272989X221121747) | *Medical Decision Making*, 2023 |
+| [An Introductory Tutorial on Cohort State-Transition Models in R using a Cost-Effectiveness Analysis Example](https://doi.org/10.1177/0272989X221103163) | *Medical Decision Making*, 2023 |
+| [A Multidimensional Array Representation of State-Transition Model Dynamics](https://doi.org/10.1177/0272989X19893973) | *Medical Decision Making*, 2020 |
+| [A need for change! A coding framework for improving transparency in decision modeling](https://pubmed.ncbi.nlm.nih.gov/31549359/) | *PharmacoEconomics*, 2019 |
+| [Microsimulation Modeling for Health Decision Sciences Using R: A Tutorial](https://doi.org/10.1177/0272989X18754513) | *Medical Decision Making*, 2018 |
+| [An Overview of R in Health Decision Sciences](https://pubmed.ncbi.nlm.nih.gov/28061043/) | *Medical Decision Making*, 2017 |
+
+Most of these were developed with the [DARTH workgroup](https://www.darthworkgroup.com/tutorials/).
+
+## Publications
+
+See the full list on [Fernando's Stanford profile](https://profiles.stanford.edu/fernando-alarid-escudero) or [Google Scholar](GOOGLE_SCHOLAR_URL).
 
 ## Our groups and collaborations
 
