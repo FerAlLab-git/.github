@@ -55,7 +55,7 @@ Most of these were developed with the [DARTH workgroup](https://www.darthworkgro
 
 ## Publications
 
-See the full list on [Fernando's Stanford profile](https://profiles.stanford.edu/fernando-alarid-escudero) or [Google Scholar](GOOGLE_SCHOLAR_URL).
+See the full list on [Fernando's Stanford profile](https://profiles.stanford.edu/fernando-alarid-escudero) or [Google Scholar](https://scholar.google.com/citations?user=i_1js6UAAAAJ&hl=en&oi=sra).
 
 ## Our groups and collaborations
 
