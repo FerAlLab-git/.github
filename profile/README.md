@@ -34,9 +34,19 @@ Our name joins **Fer**nando and **Al**arid, and our motto is *Stay feral*: curio
 |---|---|
 | [**DESCIPHR**](https://link.springer.com/article/10.1007/s40273-025-01571-3) | Open-source discrete-event simulation framework for cancer interventions and population health in R, led by [Selina Pi](https://github.com/sjpi22) |
 | [**BayCANN**](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2021.662314/full) | Bayesian calibration of simulation models using artificial neural network emulators. Co-developed with [Hawre Jalal](https://github.com/hjalal) and [Tom Trikalinos](https://github.com/ttrikalin)|
-| [**Gaussian approximation (GA) for EVSI**](https://doi.org/10.1177/0272989X17715627) | Estimates the expected value of sample information from a single set of probabilistic sensitivity analysis results, without nested simulation. Co-developed with [Hawre Jalal](https://github.com/hjalal), used in applied value-of-information studies, and included in [ISPOR’s EVSI computation guidance](https://www.valueinhealthjournal.com/article/S1098-3015(20)30149-2/fulltext) |
+| [**Gaussian approximation (GA) for EVSI**](https://doi.org/10.1177/0272989X17715627) | Estimates the expected value of sample information from a single set of probabilistic sensitivity analysis results, without nested simulation. Co-developed with [Hawre Jalal](https://github.com/hjalal), used in applied value-of-information studies, and included in [ISPOR’s EVSI computation guidance](https://www.valueinhealthjournal.com/article/S1098-3015(20)30149-2/fulltext). Access the code here: [EVSI Gaussian Approximation](https://github.com/FerAlLab-git/VOI-Gaussian-Approximation) |
+| [**dshr**](https://github.com/feralaes/dshr) | R package to derive disease-specific hazard ratios (dsHR) from the overall hazard ratios (oHR) reported in trials, so treatment effects can be applied correctly in models that already include background mortality |
+| [**hhmcseirv**](https://github.com/SC-COSMO/hhmcseirv) | Multi-compartment SEIRSV transmission framework with non-exponential durations in the exposed and infectious states, tracking household and community transmission separately |
 | [**PRE-CISE**](https://www.medrxiv.org/content/10.64898/2026.02.27.26346591v3) | Pre-calibration diagnostics for complex simulation models, led by [Valeria Gracia](https://github.com/vgraciaol) |
 | [**dampack**](https://github.com/DARTH-git/dampack), [**darthtools**](https://github.com/DARTH-git/darthtools), [**darthpack**](https://github.com/DARTH-git/darthpack) | R packages and templates for decision-analytic modeling, developed with [DARTH](https://github.com/DARTH-git) |
+
+## Code for our papers
+
+R packages that reproduce the analyses in our publications.
+
+| Package | Reproduces |
+|---|---|
+| [**cdx2cea**](https://github.com/feralaes/cdx2cea) | Cost-effectiveness of testing average-risk stage II colon cancer patients for the absence of CDX2 biomarker expression, followed by adjuvant chemotherapy |
 
 ## Tutorials
 
