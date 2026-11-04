@@ -40,6 +40,8 @@ Our name joins **Fer**nando and **Al**arid, and our motto is *Stay feral*: curio
 | [**hhmcseirv**](https://github.com/SC-COSMO/hhmcseirv) | Multi-compartment SEIRSV transmission framework with non-exponential durations in the exposed and infectious states, tracking household and community transmission separately. Co-developed with [Jeremy Goldhaber-Fiebert](https://github.com/jeremygf), used in our [COVID-19 modeling analysis for Mexico City](https://doi.org/10.1177/23814683211049249) |
 | [**PRE-CISE**](https://www.medrxiv.org/content/10.64898/2026.02.27.26346591v3) | Pre-calibration diagnostics for complex simulation models, led by [Valeria Gracia](https://github.com/vgraciaol) |
 | [**dampack**](https://github.com/DARTH-git/dampack), [**darthtools**](https://github.com/DARTH-git/darthtools), [**darthpack**](https://github.com/DARTH-git/darthpack) | R packages and templates for decision-analytic modeling, developed with [DARTH](https://github.com/DARTH-git) |
+| [**feral-lab-os**](https://github.com/FerAlLab-git/feral-lab-os) | Claude Code plugin with skills for building, calibrating and reviewing decision-analytic models in R: calibration setup, model code review, and the lab's coding conventions based on the DARTH framework |
+| [**project-template**](https://github.com/FerAlLab-git/project-template) | GitHub template for new decision-model repositories, with the DARTH folder layout, R package scaffolding, and rules for keeping restricted data and large model outputs out of git |
 
 ## Code for our papers
 
